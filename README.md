@@ -1,3 +1,9 @@
+# App Preview
+
+<img width="960" alt="image" src="https://github.com/jasika5522/SpeechRecognition/assets/89533656/ba10ac1e-c33c-4a01-adc7-5cfd4bd1a781">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
